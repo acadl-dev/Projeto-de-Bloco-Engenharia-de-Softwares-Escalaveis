@@ -32,7 +32,7 @@ Este repositório funciona como um ponto central para organizar os principais en
 
 ### 🎥 Demonstração
 
-> 🔗 **Vídeo de demonstração:** *link será adicionado*
+> 🔗 **Vídeo de demonstração:** [*https://youtu.be/D7T5psluJYs*](https://youtu.be/D7T5psluJYs)
 
 ---
 
