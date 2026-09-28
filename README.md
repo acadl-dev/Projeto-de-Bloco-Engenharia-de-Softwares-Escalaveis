@@ -1,4 +1,4 @@
-[TP5-AT PROJETO DE BLOCO.pdf](https://github.com/user-attachments/files/32713573/TP5-AT.PROJETO.DE.BLOCO.pdf)# Projeto de Bloco — Engenharia de Softwares Escaláveis
+# Projeto de Bloco — Engenharia de Softwares Escaláveis
 
 > Repositório central do **Projeto de Bloco: Engenharia de Softwares Escaláveis**, reunindo os artefatos, repositórios e documentações do sistema **Finora** desenvolvidos ao longo das etapas do projeto.
 
