@@ -1,4 +1,4 @@
-# Projeto de Bloco — Engenharia de Softwares Escaláveis
+[TP5-AT PROJETO DE BLOCO.pdf](https://github.com/user-attachments/files/32713573/TP5-AT.PROJETO.DE.BLOCO.pdf)# Projeto de Bloco — Engenharia de Softwares Escaláveis
 
 > Repositório central do **Projeto de Bloco: Engenharia de Softwares Escaláveis**, reunindo os artefatos, repositórios e documentações do sistema **Finora** desenvolvidos ao longo das etapas do projeto.
 
@@ -38,19 +38,17 @@ Este repositório funciona como um ponto central para organizar os principais en
 
 ## 🚀 Finora — TP5
 
-> 🔗 **Backend:** *link será adicionado*  
-> 🔗 **Frontend:** *link será adicionado*  
-> 📄 **Documentação:** *link será adicionado*  
-> 🎥 **Demonstração:** *link será adicionado*
+> 🔗 **Backend:** *https://github.com/acadl-dev/finora-backend/tree/tp5*  
+> 🔗 **Frontend:** *https://github.com/acadl-dev/finora-frontend/tree/tp5*  
+> 📄 **Documentação e demonstração:** *[TP5-AT PROJETO DE BLOCO.pdf](https://github.com/user-attachments/files/32713578/TP5-AT.PROJETO.DE.BLOCO.pdf)*
 
 ---
 
 ## 🚀 Finora — AT
 
-> 🔗 **Backend:** *link será adicionado*  
-> 🔗 **Frontend:** *link será adicionado*  
-> 📄 **Documentação:** *link será adicionado*  
-> 🎥 **Demonstração:** *link será adicionado*
+> 🔗 **Backend:** *https://github.com/acadl-dev/finora-backend/tree/main*  
+> 🔗 **Frontend:** *https://github.com/acadl-dev/finora-frontend/tree/main*  
+> 📄 **Documentação e demonstração:** *[TP5-AT PROJETO DE BLOCO.pdf](https://github.com/user-attachments/files/32713578/TP5-AT.PROJETO.DE.BLOCO.pdf)*
 
 
 ---
