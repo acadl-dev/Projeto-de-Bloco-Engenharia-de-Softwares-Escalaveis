@@ -48,7 +48,8 @@ Este repositório funciona como um ponto central para organizar os principais en
 
 > 🔗 **Backend:** *https://github.com/acadl-dev/finora-backend/tree/main*  
 > 🔗 **Frontend:** *https://github.com/acadl-dev/finora-frontend/tree/main*  
-> 📄 **Documentação e demonstração:** *[TP5-AT PROJETO DE BLOCO.pdf](https://github.com/user-attachments/files/32713578/TP5-AT.PROJETO.DE.BLOCO.pdf)*
+> 📄 **Documentação e demonstração:** *[TP5-AT PROJETO DE BLOCO.pdf](https://github.com/user-attachments/files/32713578/TP5-AT.PROJETO.DE.BLOCO.pdf)*    
+> 🎥 **Vídeo de demonstração:** [*https://youtu.be/lGEU486UoRk*](https://youtu.be/lGEU486UoRk)
 
 
 ---
